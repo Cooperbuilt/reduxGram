@@ -1,6 +1,6 @@
-# Learn Redux
+# A Learn Redux App
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+Simple React + Redux implementation following the Wes Bos Redux tutorial and adding some of my own flavor. 
 
 ## Running
 
@@ -12,4 +12,3 @@ Then run `npm start` and open <localhost:7770> in your browser.
 
 Run `npm build` to create a distro folder and a bundle.js file.
 
-test
